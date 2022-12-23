@@ -1,0 +1,18 @@
+.adv_filter.none{
+    display: none;
+}
+.advfilter{
+    margin-right: 5px;
+}
+.coinslist{
+    margin-top: 20px;
+}
+.element{
+    display: flex;
+    flex-wrap: wrap;  
+    width: 700px ; 
+}
+.element .right{
+    width: 400px;
+}
+

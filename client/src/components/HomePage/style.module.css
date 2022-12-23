@@ -1,0 +1,26 @@
+.inp {
+    border:1px solid black;
+    border-radius: 3px;
+    outline: none;
+    padding: 7px 10px;
+    width: 15rem;
+    
+}
+
+.from{
+    border: 1px solid black;
+    border-radius: 3px;
+    outline: none;
+    padding: 7px 10px;
+    width: 7rem;
+    margin-left: 10px;
+
+}
+.to{
+    border: 1px solid black;
+    border-radius: 3px;
+    outline: none;
+    padding: 7px 10px;
+    width: 7rem;
+    margin-left: 10px;
+}
